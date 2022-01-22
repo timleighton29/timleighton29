@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @timleighton29
-- 👀 I’m interested in learning and making a career in front end web development
-- 🌱 I’m currently learning on evenings and weekends full stack cadecademy web development
-- 💞️ I’m looking to collaborate on coding and programming courses and information to better my development
-- 📫 How to reach me my email is tim.leighton@live.ca
+- 👋 Hi, I’m Timothy Leighton
+- 👀 I’m interested in learning and making a career in digital marketing
+- 🌱 I’m currently learning digital marketing full time through BrainStations digital marketing bootcamp
+- 💞️ I’m looking to collaborate digital marketing opportunities and information to better my career
+- 📫 How to reach me my email is tim.leighton29@gmail.com
 
 <!---
 timleighton29/timleighton29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
